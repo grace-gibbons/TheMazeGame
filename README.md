@@ -24,6 +24,8 @@ Of course, the player has some information. For their current position in the ma
 |------|------|
 | An example of the player in the maze at location (2, 5) | The LCD of the player at their given position |
 
+The labeling system uses a set of coordinates, which starts at (0, 0) in the top left and ends at (7, 7) in the bottom right.
+
 ### Navigating the Maze
 The player can use the game controller to navigate the maze, either using the arrow pad on the left or the four buttons on the right. These buttons represent the up, down, left, and right motions possible to the player.
 
