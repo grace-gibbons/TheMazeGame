@@ -4,9 +4,9 @@ Welcome to The Maze Game, a project that utilizes a Raspberry Pi and several ext
 <img src="https://github.com/grace-gibbons/TheMazeGame/assets/60190711/80be1ea0-e0f2-4851-8fa5-511354105176" width="640" height="320">
 
 ## Table of Contents
-- [The Maze Game: How to Play](https://github.com/grace-gibbons/TheMazeGame#the-maze-game-how-to-play)
-- [Project Details](https://github.com/grace-gibbons/TheMazeGame#project-details)
-- [Lessons Learned and Problem Solving](https://github.com/grace-gibbons/TheMazeGame#lessons-learned-and-problem-solving)
+- [The Maze Game: How to Play](#the-maze-game-how-to-play)
+- [Project Details](#project-details)
+- [Lessons Learned and Problem Solving](#lessons-learned-and-problem-solving)
 
 ## The Maze Game: How to Play
 The goal of the game is simple. Navigate to the end of the maze and collect coins along the way.
